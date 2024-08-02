@@ -119,5 +119,5 @@ console.log(AbdulsCounter()); // 1
 console.log(AnjanadrisCounter()); // 3
 
 
-// examples
+// examples 
 

@@ -20,6 +20,15 @@
 
    closure - e.g counter function
 
+# BOM and DOM
+
+  selecting elements
+  manipulating elements
+  creating and inserting elements
+  Event handling
+  Basic of web browser function - setTimeout, and setInterval
+  function passed by reference to setTimeout
+
   
 
 

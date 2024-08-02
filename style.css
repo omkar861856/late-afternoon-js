@@ -1,0 +1,8 @@
+.main{
+    background-color: rgb(241, 86, 91);
+}
+
+.active{
+    background-color: rgb(84, 232, 84);
+    color: white;
+}
