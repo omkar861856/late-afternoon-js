@@ -20,7 +20,7 @@
 
    closure - e.g counter function
 
-# BOM and DOM
+# 2nd August - BOM and DOM
 
   selecting elements
   
@@ -33,6 +33,8 @@
   Basic of web browser function - setTimeout, and setInterval
   
   function passed by reference to setTimeout
+
+  callbacks/promises/async-await - next
 
   
 
