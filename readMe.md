@@ -34,7 +34,11 @@
   
   function passed by reference to setTimeout
 
-  callbacks/promises/async-await - next
+# 5th August - 
+
+  Todo app
+  
+  Async JS
 
   
 
