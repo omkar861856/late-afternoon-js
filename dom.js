@@ -4,12 +4,14 @@ console.log(eles);
 
 function Toggle(){
 
-    eles.classList.toggle("active");
+    eles.classList.toggle("active1");
 
     console.log(eles);
 }
 
-setInterval(Toggle, 5000);
+//toggle reference provided below
+
+// setInterval(Toggle, 5000);
 
 let img = document.createElement("img");
 
@@ -44,6 +46,27 @@ input1.addEventListener('focus', ()=>{
 
 
 // reference of a function = function_name without parentheses
+
+
+let paragraph3 = document.getElementById('heading3')
+
+let body = document.querySelector('body');
+
+
+let t = document.querySelector('#input1')
+
+let p4 = paragraph3.cloneNode(true);
+
+body.appendChild(p4);
+
+let h5 = document.createElement('h5');
+
+h5.innerText = 'heading 5';
+
+body.replaceChild(h5, p4);
+
+
+
 
 
 

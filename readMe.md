@@ -38,7 +38,9 @@
 
   Todo app
   
-  Async JS
+  Async JS - introduction
+
+  
 
   
 
